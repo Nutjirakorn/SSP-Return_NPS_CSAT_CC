@@ -1,6 +1,0 @@
-streamlit>=1.50
-pandas>=2.0
-plotly>=5.20
-requests>=2.31
-streamlit-autorefresh>=1.0.1
-google-auth>=2.29
